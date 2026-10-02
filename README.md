@@ -1,6 +1,6 @@
 <div align="center">
 
-# Wild Kernels for Android devices running GKI 2.0 (5.10+)
+# Sasha test Kernels for Android devices running 6.1 
 
 [![License: GPL-3.0](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](LICENSE)
 [![Third-Party Notices](https://img.shields.io/badge/notices-THIRD__PARTY_NOTICES-lightgrey.svg)](THIRD_PARTY_NOTICES.md)
@@ -20,7 +20,7 @@ Generic kernels built on [Google's GKI sources](https://android.googlesource.com
 
 ## Features
 
-- **KernelSU / KernelSU-Next / ReSukiSU** — root implementations
+- **KernelSU-Next** — root implementations
 - **susfs4ksu** — root hiding (incl. Ptrace Leak Fix, Unicode Fix)
 - **NoMount / Mountify** — mount metamodules
 - **Baseband Guard** — partition protection
